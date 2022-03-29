@@ -1,2 +1,2 @@
 # la_lc
-Language Communicator and accuser tools repo
+Language Communicator and langauge accaser tools repo
