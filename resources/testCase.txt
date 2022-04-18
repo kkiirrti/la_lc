@@ -1,0 +1,5 @@
+
+1. ','+black_list - will fail
+2. black_list+'some character' - will fail
+
+
